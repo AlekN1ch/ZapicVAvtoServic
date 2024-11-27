@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZapicVAvtoServic", "ZapicVAvtoServic.csproj", "{C6DEF54D-0C72-48E1-AE39-E97BEA35442B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6DEF54D-0C72-48E1-AE39-E97BEA35442B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DEF54D-0C72-48E1-AE39-E97BEA35442B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DEF54D-0C72-48E1-AE39-E97BEA35442B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DEF54D-0C72-48E1-AE39-E97BEA35442B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4F7F6ED-A952-4D6C-AAEA-F38C04372851}
+	EndGlobalSection
+EndGlobal
